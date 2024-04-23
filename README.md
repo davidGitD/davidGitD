@@ -14,7 +14,7 @@ const davidGitD = {
   tools: [AWS, PowerBI, Looker, Google Cloud]
 }
 ```
-- 📚 I’m currently learning everything about Cloud and Serverless technologies 😅
+- 📚 I’m currently learning everything about Cloud and Bigdata technologies 😅
 - 💪🏼 Future Goals: Learn more technologies (IA & BigData) - Never stop creating new ideas.
 - ⚡ Fun fact: I love travelling and cooking 👨‍🍳.
 
