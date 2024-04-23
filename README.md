@@ -10,11 +10,11 @@
 
 ```javascript
 const davidGitD = {
-  code: [Javascript, Java, HTML, CSS, JavaFX, SQL, Java],
+  code: [Javascript, Java, HTML, CSS, JavaFX, SQL, Scala],
   tools: [AWS, PowerBI, Looker, Google Cloud]
 }
 ```
-- 📚 I’m currently learning everything about Cloud and Bigdata technologies 😅
+- 📚 I’m currently learning everything about Cloud and BigData technologies 😅
 - 💪🏼 Future Goals: Learn more technologies (IA & BigData) - Never stop creating new ideas.
 - ⚡ Fun fact: I love travelling and cooking 👨‍🍳.
 
