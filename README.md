@@ -10,8 +10,8 @@
 
 ```javascript
 const davidGitD = {
-  code: [Javascript, Java, HTML, CSS, JavaFX, SQL, Scala],
-  tools: [AWS, PowerBI, Looker, Google Cloud]
+  code: [Python, Java, SQL, Scala, PySpark, HTML, CSS, JavaFX],
+  tools: [AWS, PowerBI, Looker, Google Cloud, Jupyter Notebooks]
 }
 ```
 - 📚 I’m currently learning everything about Cloud and BigData technologies 😅
